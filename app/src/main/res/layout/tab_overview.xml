@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/tab_overview">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recycler_overview">
+
+    </android.support.v7.widget.RecyclerView>
+
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:id="@+id/menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:paddingBottom="10dp"
+        android:paddingRight="10dp"
+
+        fab:menu_colorNormal="@color/menuFAB"
+        fab:menu_colorPressed="@color/menuFABpressed"
+        fab:menu_fab_label="">
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/menu_income"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_income"
+            fab:fab_colorNormal="@color/incomeFAB"
+            fab:fab_colorPressed="@color/incomeFABpressed"
+            fab:fab_label="@string/add_income"
+            fab:fab_size="normal" />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:id="@+id/menu_expense"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_expense"
+            fab:fab_colorNormal="@color/expenseFAB"
+            fab:fab_colorPressed="@color/expenseFABpressed"
+            fab:fab_label="@string/add_expense"
+            fab:fab_size="normal" />
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+</RelativeLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ShellWallet.iml" filepath="$PROJECT_DIR$/ShellWallet.iml" />
+      <module fileurl="file://D:\BKU\162\Profesional Skills\Assignment\ShellWallet\ShellWallet2.iml" filepath="D:\BKU\162\Profesional Skills\Assignment\ShellWallet\ShellWallet2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

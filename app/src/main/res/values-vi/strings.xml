@@ -1,0 +1,118 @@
+<resources>
+
+    <string name="alert_message_amount">Bạn phải điền vào số lượng</string>
+    <string name="selectlanguage">Chọn ngôn ngữ</string>
+    <string name="allrightreserved">Bản quyền được bảo hộ</string>
+    <string name="copyright">Bản quyền © 2017 - L2TB Team - CSE - BKU</string>
+    <string name="developedbyl2tbteam">Phát triển bởi nhóm L2TB</string>
+    <string name="version1.0.0">Phiên bản 1.0.0</string>
+    <string name="visitus">Liên hệ</string>
+    <string name="delete_confirm">Xóa</string>
+    <string name="delete_title">Xóa Lịch sử</string>
+    <string name="delete_message">Bạn có chắc chắn muốn xóa mục này?</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="theme">Chủ đề</string>
+    <string name="datetimeformat">Định dạng ngày tháng</string>
+    <string name="app_name" translatable="false">Shell Wallet</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="overview">Tổng quan</string>
+    <string name="reports">Báo cáo</string>
+    <string name="settings">Cài đặt</string>
+    <string name="about">Liên hệ</string>
+    <string name="today">Hôm nay</string>
+    <string name="choose_wallet">Lựa chọn ví</string>
+    <string name="alert_title" translatable="false">Oops!</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="alert_message_cat">Hãy chọn một loại chi tiêu</string>
+    <string name="alert_message_amount_zero">Số lượng phải lớn hơn 0</string>
+    <string name="managerCategories">Nhóm</string>
+    <string name="addwallet">Thêm ví tiền</string>
+    <string name="managewallets">Quản lí ví tiền</string>
+    <string name="transfer">Chuyển tiền</string>
+    <string name="history">Lịch sử</string>
+    <string name="expense">Chi tiêu</string>
+    <string name="income">Thu nhập</string>
+    <string name="wallet_current">accountcurrent</string>
+    <string name="preperences_file">preperences_file</string>
+    <string name="outflow">Tiền ra</string>
+    <string name="inflow">Tiền vào</string>
+    <string name="balance">Số dư: </string>
+
+
+
+    <string name="delete_category_message">Bạn muốn xóa nhóm này?</string>
+    <string name="delete_category_title">Xóa nhóm</string>
+    <string name="delete_wallet_message">Bạn muốn xóa ví tiền này?</string>
+    <string name="delete_wallet_title">Xóa ví tiền</string>
+    <string name="delete_wallet_warning">Bạn không thể xóa ví tiền hiện tại</string>
+    <string name="alert_message_icon">Hãy chọn một biểu tượng</string>
+    <string name="alert_message_name">Hãy điền vào trường còn thiếu</string>
+    <string name="edit_expense">Sửa chi tiêu</string>
+    <string name="edit_income">Sửa thu nhập</string>
+    <string name="add_expense">Thêm chi tiêu</string>
+    <string name="add_income">Thêm thu nhập</string>
+
+
+
+
+    <string name="add_note">Thêm ghi chú</string>
+    <string name="choose_category">Chọn nhóm</string>
+    <string name="amount">Số tiền</string>
+    <string name="choose_icon">Chọn hình đại diện</string>
+    <string name="category_name">Tên nhóm</string>
+    <string name="add_expense_category">THÊM NHÓM CHI TIÊU</string>
+    <string name="add_income_category">THÊM NHÓM THU NHẬP</string>
+    <string name="wallet_name">Tên ví</string>
+    <string name="wallet_currency">Đơn vị tiền tệ</string>
+    <string name="initial_wallet_balance">Số dư ban đầu</string>
+    <string name="initial_amount">Khởi tạo số tiền</string>
+    <string name="this_month">Tháng này</string>
+    <string name="daily_expenses">Chi tiêu hằng ngày</string>
+    <string name="expense_by_category">Chi tiêu theo nhóm</string>
+    <string name="select_theme">Chọn chủ đề</string>
+    <string name="select_date_format">Chọn định dạng ngày tháng</string>
+    <string name="select_language">Chọn ngôn ngữ</string>
+    <string name="add_wallet">Thêm ví</string>
+    <string name="edit_wallet">Chỉnh sửa ví</string>
+    <string name="delete">Xóa</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="decimal">Dấu phân cách thập phân</string>
+    <string name="them1">Xanh cyan</string>
+    <string name="theme2">Nâu</string>
+    <string name="theme3">Xanh lá cây</string>
+    <string name="them4">Xanh nửa đêm</string>
+    <string name="others">Nhóm khác</string>
+    <string name="totalspent">Tổng</string>
+
+    <string-array name="datetimearray">
+        <item>DD/MM/YYYY</item>
+        <item>MM/DD/YYYY</item>
+    </string-array>
+    <string-array name="themearray">
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+    <string-array name="currency_array">
+        <item>USD</item>
+        <item>VND</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>INR</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>SGD</item>
+        <item>CHF</item>
+        <item>MYR</item>
+        <item>JPY</item>
+        <item>CNY</item>
+
+    </string-array>
+
+
+
+</resources>

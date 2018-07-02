@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0F80A2</color>
+    <color name="colorPrimaryDark">#094a5d</color>
+    <color name="colorAccent">#16b8e9</color>
+
+    <color name="colorPrimary2">#82150f </color>
+    <color name="colorPrimaryDark2">#61100c</color>
+    <color name="colorAccent2">#ff8a80</color>
+
+    <color name="colorPrimary3">#785447 </color>
+    <color name="colorPrimaryDark3">#533a30</color>
+    <color name="colorAccent3">#fe9700</color>
+
+    <color name="colorPrimary4">#388E3C </color>
+    <color name="colorPrimaryDark4">#1B5E20</color>
+    <color name="colorAccent4">#64DD17</color>
+
+    <color name="colorPrimary5">#2c3e50 </color>
+    <color name="colorPrimaryDark5">#202d3a</color>
+    <color name="colorAccent5">#ff5e67</color>
+
+    <color name="colorSelected">#c7dcff</color>
+
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="textColorSecondary">#9E9E9E</color>
+    <!-- inverse text color: 87% black -->
+    <color name="textColorPrimaryInverse">#DE000000</color>
+    <color name="textColorSecondaryInverse">#9E9E9E</color>
+
+    <color name="black">#FF000000</color>
+    <color name="text">#CC000000</color>
+
+
+    <color name="a1">#c0392b</color>
+    <color name="a2">#27ae60</color>
+    <color name="a3">#2980b9</color>
+    <color name="a4">#f39c12</color>
+    <color name="a5">#8e44ad</color>
+    <color name="a6">#2c3e50</color>
+    <color name="a7">#7f8c8d</color>
+    <color name="barcolor">#f44336</color>
+
+    <color name="menuFAB">#EC870E</color>
+    <color name="menuFABpressed">#db870e</color>
+    <color name="expenseFAB">#DF0029</color>
+    <color name="expenseFABpressed">#cb0029</color>
+    <color name="incomeFAB">#5BBD2B</color>
+    <color name="incomeFABpressed">#5ba22b</color>
+    <color name="transperFAB">#00B2BF</color>
+    <color name="transperFABpressed">#00b2ac</color>
+
+    <color name="inflow">#4CAF50</color>
+    <color name="outflow">#f44336</color>
+    <color name="lineseperator">#9E9E9E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whitetrans">#99FFFFFF</color>
+    <color name="font_color">#bdbdbd</color>
+</resources>
